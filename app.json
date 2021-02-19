@@ -1,0 +1,12 @@
+{
+  "name": "lab-react-native",
+  "displayName": "lab-react-native",
+  "expo": {
+    "name": "lab-react-native",
+    "slug": "lab-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
